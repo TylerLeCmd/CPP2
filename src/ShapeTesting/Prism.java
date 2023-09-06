@@ -1,20 +1,31 @@
+import java.lang.Math;
+
 public class Prism {
-    private float l;
-    private float w;
-    private float h;
-    public void setRegVals(float length, float width){
+    private double l;
+    private double b;
+    private double h;
+
+    public void setRegVals(double length, double base) {
         this.l = length;
-        this.w = width;
+        this.b = base;
+        this.h = Math.sqrt(Math.pow(base, 2) - Math.pow(0.5 * base, 2));
     };
-    public void setIsoVals(float length, float width, float height){
+
+    public void setIsoVals(double length, double base, double height) {
         this.l = length;
-        this.w = width;
+        this.b = base;
         this.h = height;
     };
-    public float getVolume (){
-        return (l*w*h);
+
+    public double getVolume() {
+        return (l * b * h / 2);
     }
-    public float getSA (){
-        return ((2*l*w)+(2*w*h)+(2*l*h));
+
+    public double getSA() {
+        return ((b * h) + (b * l) + ((Math.sqrt(Math.pow(b / 2, 2) + Math.pow(h, 2))) * l * 2));
+    }
+
+    public double testValue() {
+        return h;
     }
 }
