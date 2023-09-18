@@ -1,9 +1,5 @@
-import java.lang.invoke.ClassSpecializer.Factory;
-
-import javax.naming.Binding;
-
-public class wordlist {
-    // provide by:
+public class Wordlist {
+    // provide by: https://byjus.com/english/7-letter-words/
     String[] wordsLong = { "Ability", "Backing", "Cabinet",
             "Absence", "Balance", "Calibre",
             "Academy", "Banking", "Calling",
