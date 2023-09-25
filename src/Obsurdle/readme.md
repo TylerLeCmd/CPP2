@@ -1,5 +1,5 @@
 # Obsurdle, the Hawt New Word Game
-## By [Dallin Soukup](https://github.com/9652211) and Tyler Le
+## By [Dallin Soukup](https://github.com/9652211) and [Tyler Le](https://github.com/TylerLeCmd)
 
 This word game is similar to the famous New York Times Wordle,
 in which the goal is to guess a seven letter word in seven guesses!
