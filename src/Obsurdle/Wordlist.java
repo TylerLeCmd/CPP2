@@ -1,4 +1,5 @@
 public class Wordlist {
+    //Separated for Organization Purposes
     // provide by: https://byjus.com/english/7-letter-words/
     String[] wordsLong = { "Ability", "Backing", "Cabinet",
             "Absence", "Balance", "Calibre",
