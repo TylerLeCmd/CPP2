@@ -3,5 +3,5 @@
 
 This word game is similar to the famous New York Times Wordle,
 in which the goal is to guess a seven letter word in seven guesses!
-![Image2](https://github.com/TylerLeCmd/CPP2/blob/d926250c2050c82f69fff38e2eea94cd6fa8e06f/images/Obsurdle1.png)
 ![Image](https://github.com/TylerLeCmd/CPP2/blob/5f5036f80146f8e8d69a4c77157ac6a46dc8bf84/images/Obsurdle2.png)
+![Image2](https://github.com/TylerLeCmd/CPP2/blob/5f5036f80146f8e8d69a4c77157ac6a46dc8bf84/images/Obsurdle1.png)
