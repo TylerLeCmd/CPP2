@@ -102,7 +102,6 @@ public class Obsurdle {
                     }
                 }
             }
-            //Not yet implemented to work
             System.out.println("Do you want to play again?");
             String restart = beans.nextLine();
             if (restart.toLowerCase().equals("y")) {
