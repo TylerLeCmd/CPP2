@@ -15,5 +15,5 @@ by Tyler Le, Year 4 Skyline High School
     IMPORTANT: CURRENTLY WORK-IN-PROGRESS
 
 ## [[2023/08/28] One Day Calculator](https://tylerlecmd.github.io/CPP2/2023/08/28/onedaycalc.html)
-## [2023/09/06] Shape Tester
+## [[2023/09/06] Shape Tester](https://tylerlecmd.github.io/CPP2/2023/09/06/shapetester.html)
 ## [2023/09/26] Obsurdle
