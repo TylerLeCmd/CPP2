@@ -9,9 +9,8 @@ header_pages:
   - about.md
   - portfolio.md
 
-author:
-  name: Tyler Le
-  email: albertwork.tl+school@gmail.com
+name: Tyler Le
+email: albertwork.tl+school@gmail.com
 
 description: >
   This is the portfolio produced by Tyler Le. It's comprised
