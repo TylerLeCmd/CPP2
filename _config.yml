@@ -1,6 +1,9 @@
 title: CP Projects 2
 theme: minima
 
+header_pages:
+  - about.md
+  - portfolio.md
 name: Tyler Le
 email: albertwork.tl+school@gmail.com
 
