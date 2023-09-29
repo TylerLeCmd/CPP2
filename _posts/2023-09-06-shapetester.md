@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "One Day Calculator"
+title: "3 Dimensional Shape Calculator"
 author:
 - Tyler Le
 ---
