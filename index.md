@@ -13,6 +13,6 @@ by Tyler Le, Year 4 Skyline High School
     To navigate this page, scroll to the desired article.
     IMPORTANT: CURRENTLY WORK-IN-PROGRESS
 
-## [![2023/09/28]One Day Calculator](https://tylerlecmd.github.io/LiteraryPortfolio/2023/03/14/htrllap.html)
+## [[2023/09/28]One Day Calculator](https://tylerlecmd.github.io/LiteraryPortfolio/2023/03/14/htrllap.html)
 ## Shape Tester
 ## Obsurdle
