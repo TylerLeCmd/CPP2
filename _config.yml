@@ -1,9 +1,14 @@
 title: CP Projects 2
 theme: minima
 
+minima:
+  skin: dark
+  date_format: "%b %-d, %Y"
+  
 header_pages:
   - about.md
   - portfolio.md
+  
 name: Tyler Le
 email: albertwork.tl+school@gmail.com
 
