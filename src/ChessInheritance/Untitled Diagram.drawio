@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T14:51:21.995Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="UMIgvxUlr8irtod7UOEI" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T14:44:29.456Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="fXh_uUIO3fTC-9tm6s3T" version="22.0.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1026" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,11 +7,11 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Inheritance Chart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="80" width="720" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="uc31y5CC-J8vz7lnrKXn-3" value="ChessPiece" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="290" y="70" width="140" height="70" as="geometry" />
+        <mxCell id="uc31y5CC-J8vz7lnrKXn-3" value="ChessPiece" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+          <mxGeometry x="290" y="70" width="140" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="uc31y5CC-J8vz7lnrKXn-6" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="uc31y5CC-J8vz7lnrKXn-3">
-          <mxGeometry y="30" width="140" height="40" as="geometry" />
+        <mxCell id="uc31y5CC-J8vz7lnrKXn-6" value="String pieceColor&lt;br&gt;&lt;br&gt;boolean hasHat" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="uc31y5CC-J8vz7lnrKXn-3" vertex="1">
+          <mxGeometry y="30" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
